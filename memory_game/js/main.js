@@ -52,7 +52,14 @@ console.log("Sorry, try again.");
 	console.log(card.cardImage);
 	console.log(card.suit);
 
-}
 
-flipCard(0);
-flipCard(2);
+
+}
+	
+	function createBoard(){
+
+		
+	}
+
+	flipCard(0);
+	flipCard(2);
